@@ -3,13 +3,16 @@
 Functions
 
 - [ ] Blake2bHash
+
 - [ ] PublicKeyToAddress
 - [ ] AddressToString
 - [ ] AddressToUint8Array
 - [ ] AddressCheckSum
 - [ ] ZeroPad
+
 - [ ] HyconToString
 - [ ] HyconFromString
+
 - [ ] EncodingMnemonic
 - [ ] Encrypt
 - [ ] Decrypt
