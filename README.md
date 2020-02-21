@@ -2,12 +2,13 @@
 
 Functions
 
-- [ ] Blake2bHash
+- [x] Blake2bHash
 
-- [ ] PublicKeyToAddress
-- [ ] AddressToString
+- [x] PublicKeyToAddress
+- [x] AddressCheckSum
+- [x] AddressToString
 - [ ] AddressToUint8Array
-- [ ] AddressCheckSum
+
 - [ ] ZeroPad
 
 - [ ] HyconToString
