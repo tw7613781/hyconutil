@@ -7,7 +7,7 @@ Functions
 - [x] PublicKeyToAddress
 - [x] AddressCheckSum
 - [x] AddressToString
-- [ ] AddressToUint8Array
+- [x] AddressToUint8Array
 
 - [ ] ZeroPad
 
